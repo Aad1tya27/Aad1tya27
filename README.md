@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me agarwal.aaditya2765@gmail.com
 - 😄 Pronouns: He/Him
-- My Tech Stack: HTML, CSS, Tailwind CSS, JavaScript, Node, Express, MongoDB, React, NextJS
-Postman, Docker, C, C++, Python, Numpy, Pandas, Matplotlib, 
+- My Tech Stack: HTML, CSS, Tailwind CSS, JavaScript, Node, Express, MongoDB, React, NextJS, Postman, Docker, C, C++, Python, Numpy, Pandas, Matplotlib, 
 
 <!---
 Aad1tya27/Aad1tya27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
