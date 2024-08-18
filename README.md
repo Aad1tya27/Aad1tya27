@@ -15,14 +15,14 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me
 - 👀 I’m interested in Development and Problem Solving.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning GoLang.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [agarwal.aaditya2765@gmail.com](mailto:agarwal.aaditya2765@gmail.com)
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React
-- **Backend**: Node.js, Express, MongoDB
+- **Backend**: Node.js, Express, MongoDB, PostgresSQL, GoLang
 - **Tools**: Postman, Docker
 - **Languages**: C, C++, Python
 - **Data Science**: Numpy, Pandas, Matplotlib
