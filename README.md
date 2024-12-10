@@ -28,10 +28,6 @@ You can click the Preview link to take a look at your changes.
 - **Data Science**: Numpy, Pandas, Matplotlib
 - **Frameworks**: Next.js
 
-## Projects
-- [myprojects](https://github.com/Aad1tya27/myprojects): This repo contains all my Projects.
-
-
 ## Connect with Me
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aaditya-agarwal-7aa185284/)
 - Twitter: [@Aaditya74124411](https://x.com/Aaditya74124411)
