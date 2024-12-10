@@ -31,8 +31,6 @@ You can click the Preview link to take a look at your changes.
 ## Projects
 - [myprojects](https://github.com/Aad1tya27/myprojects): This repo contains all my Projects.
 
-## GitHub Stats
-![Aaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aad1tya27&show_icons=true&theme=dark)
 
 ## Connect with Me
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aaditya-agarwal-7aa185284/)
