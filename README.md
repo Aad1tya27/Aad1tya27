@@ -51,6 +51,7 @@
 
 
 ## GitHub Stats
+![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aad1tya27&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aad1tya27&layout=compact&theme=radical)
 
