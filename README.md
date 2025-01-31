@@ -6,7 +6,7 @@
 ## About Me
 - 🎓 I'm a Computer Science undergrad at IIT BHU.
 - 👀 I’m interested in Devops and AI/ML.
-- 🌱 I’m currently learning GoLang, Rust and Python.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [agarwal.aaditya2765@gmail.com](mailto:agarwal.aaditya2765@gmail.com)
@@ -42,6 +42,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
